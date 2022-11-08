@@ -1,13 +1,3 @@
-# Sample Hardhat Project
+# WinOneChance
 
-This project demonstrates a basic Hardhat use case. It comes with a sample contract, a test for that contract, and a script that deploys that contract.
-
-Try running some of the following tasks:
-
-```shell
-npx hardhat help
-npx hardhat test
-REPORT_GAS=true npx hardhat test
-npx hardhat node
-npx hardhat run scripts/deploy.js
-```
+WinOneChance: It's a Lottery Game, where one can create a game with max players and entry fee. And other user can join that game by giving entry fee. Once all players did joined then it will choose the winner and send him the winning amount.
